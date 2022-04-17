@@ -1,0 +1,7 @@
+- Software Development Lifecycle
+- Databases
+	- SQL vs NoSQL
+- Cloud Native
+	- Containers
+	- Orchstration
+- Managing and Leading Developers
