@@ -10,4 +10,5 @@
        - better horizontal scalling
 
 GraphQL
-   
+zero trust architecture
+service mesh
